@@ -362,13 +362,13 @@ const [fadeOut, setFadeOut] = useState(false);
   const getThemeClasses = () => {
     switch (currentEra) {
       case 'ancient':
-        return 'bg-gradient-to-br from-amber-900 via-yellow-800 to-orange-900 text-white'
+        return 'bg-gradient-to-br from-amber-900/70 via-yellow-800/60 to-orange-900/70 text-white'
       case 'past':
-        return 'bg-gradient-to-br from-gray-800 via-gray-700 to-gray-900 text-white'
+        return 'bg-gradient-to-br from-gray-800/70 via-gray-700/60 to-gray-900/70 text-white'
       case 'future':
-        return 'bg-gradient-to-br from-purple-900 via-blue-900 to-cyan-900 text-white'
+        return 'bg-gradient-to-br from-purple-900/70 via-blue-900/60 to-cyan-900/70 text-white'
       default:
-        return 'bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white'
+        return 'bg-gradient-to-br from-slate-900/70 via-purple-900/60 to-slate-900/70 text-white'
     }
   }
 
@@ -417,8 +417,12 @@ const [fadeOut, setFadeOut] = useState(false);
 
 
   return (
-    <div className={`min-h-screen transition-all duration-1000 ${getThemeClasses()}`} style={{ fontFamily: 'JetBrains Mono, "Courier New", monospace' }}>
-      {/* Wormhole Animation Overlay */}
+    <>
+      {/* Animated Background with floating space objects */}
+      <AnimatedBackground fadeOut={false} />
+      
+      <div className={`min-h-screen transition-all duration-1000 ${getThemeClasses()}`} style={{ fontFamily: 'JetBrains Mono, "Courier New", monospace', position: 'relative', zIndex: 1 }}>
+        {/* Wormhole Animation Overlay */}
       {isTimeTravel && (
         <div className="fixed inset-0 z-50 flex items-center justify-center">
           <div className="absolute inset-0 bg-black/80" />
@@ -764,6 +768,7 @@ const [fadeOut, setFadeOut] = useState(false);
           font-weight: 400;
         }
       `}</style>
-    </div>
+      </div>
+    </>
   )
 }
