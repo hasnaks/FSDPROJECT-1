@@ -98,8 +98,7 @@ https://drive.google.com/file/d/15eWqPhl-eUFZkaJtMKidwRkh5Lj4Bv4q/view?usp=shari
 *The screen recording shows a humorous walkthrough of the “Tornare” web app. The user starts by picking a year from a list of quirky historical events, then activates the “Time Travel” feature. A glowing portal animation plays before they arrive in 1985, greeted with a comedic message about meeting Doc Brown. The journey continues with the Temporal Chat Assistant, where the user exchanges witty messages with characters from different eras—like someone from the medieval period poking fun at modern worries about WiFi. The entire experience blends time travel fantasy with light-hearted jokes.*
 
 ## Team Contributions
-- [HASNA KS]: [IDEA PITCH OF MAIN TOPIC]
-- [FIZAAN ZAHRA]: [IMPLEMENTATION]
+[HASNA KS]: [IDEA PITCH OF MAIN TOPIC], [FIZAAN ZAHRA]: IMPLEMENTATION
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
