@@ -66,7 +66,7 @@ Styled using neon cyberpunk and sepia tones, glitch effects, and cartoon fonts
 
 All data and responses are hardcoded for a fun, useless experience
 
-# Screenshots (Add at least 3)
+# Screenshots :
 ![<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/0148658f-e397-464d-be30-69414e185494" />
 ](Tornare – Fun Time Travel Simulator)
 *A playful web app for picking years, “time traveling,” and logging humorous adventures.*
