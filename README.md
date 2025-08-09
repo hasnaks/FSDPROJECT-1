@@ -9,8 +9,8 @@
 
 
 ### Team Members
-- Member 1: [HASNA KS] - [Sahrdaya College Of Engineering And Technology,Kodakara,Thrissur]
-- Member 2: [FIZAAN ZAHRA] - [Sahrdaya College Of Engineering And Technology,Kodakara,Thrissur]
+- Member 1: HASNA KS - [Sahrdaya College Of Engineering And Technology,Kodakara,Thrissur]
+- Member 2: FIZAAN ZAHRA - [Sahrdaya College Of Engineering And Technology,Kodakara,Thrissur]
 
 ### Project Description
 [🛸 Time Travel Machine
