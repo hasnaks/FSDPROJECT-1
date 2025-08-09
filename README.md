@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/c778c74d-293f-4641-b952-036e82efd328" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # [TORNARE] 🎯
